@@ -25,11 +25,14 @@
 <script type="text/javascript">
 function bondTemplate(film){
   return `<div class="film">
+      <b>Film: </b> ${film.Film}<br />
+      <b>Title: </b> ${film.Title}<br />
       <b>Year: </b> ${film.Year}<br />
-      <b>Name: </b> ${film.Name}<br />
-      <b>Rate: </b> ${film.Rate}<br />
-      <b>Description: </b> ${film.Description}<br />
-      <b>Recommended: </b> ${film.Recommended}<br />
+      <b>Director: </b> ${film.Director}<br />
+      <b>Producers: </b> ${film.Producers}<br />
+      <b>Writers: </b> ${film.Writers}<br />
+      <b>Budget: </b> ${film.Budget}<br />
+      <b>BoxOffice: </b> ${film.BoxOffice}<br />
       <div class="pic"><img src="images/${film.Image}" /></div>
       
     </div>`;
