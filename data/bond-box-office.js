@@ -11,7 +11,7 @@
 	"Writers":"Tim Herlihy and Adam Sandler",
 	"Budget":"$23,000,000.00",
 	"BoxOffice":"$190,000,000.00",
-	"Image":"WATER-BOY"
+	"Image":"WATER-BOY.jpg"
   },
 
   {
@@ -46,7 +46,7 @@
 	"Writers":"Tim Herlihy and Adam Sandler",
 	"Budget":"$12,000,000.00",
 	"BoxOffice":"$41,200,000.00",
-	"Image":"HAPPY-GILMORE"
+	"Image":"HAPPY-GILMORE.jpg"
   },
   
   {
