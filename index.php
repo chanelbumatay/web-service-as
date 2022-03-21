@@ -25,7 +25,7 @@
 <script type="text/javascript">
 function bondTemplate(film){
   return `<div class="film">
-      <b>Film: </b> ${film.Film}<br />
+    
       <b>Title: </b> ${film.Title}<br />
       <b>Year: </b> ${film.Year}<br />
       <b>Director: </b> ${film.Director}<br />

@@ -3,7 +3,20 @@
 
 "films":[
 	{
-	"Film":1,
+	
+	"Title":"Water Boy",
+	"Year":1998,
+	"Director":"Frank Coraci",
+	"Producers":"Jack Giarraputo and Robert Simonds",
+	"Writers":"Tim Herlihy and Adam Sandler",
+	"Budget":"$23,000,000.00",
+	"BoxOffice":"$190,000,000.00",
+	"Image":"WATER-BOY"
+  },
+
+  {
+	
+  
 	"Title":"The Wedding Singer",
 	"Year":1998,
 	"Director":"Frank Coraci",
@@ -14,7 +27,7 @@
 	"Image":"WEDDING-SINGER.jpg"
   },
   {
-	"Film":2,
+
 	"Title":"Little Nicky",
 	"Year":2000,
 	"Director":"Steven Brill",
@@ -25,7 +38,7 @@
 	"Image":"LITTLE-NICKY.jpg"
   },
   {
-	"Film":3,
+	
 	"Title":"Happy Gilmore",
 	"Year":1996,
 	"Director":"Dennis Dugan",
@@ -33,21 +46,11 @@
 	"Writers":"Tim Herlihy and Adam Sandler",
 	"Budget":"$12,000,000.00",
 	"BoxOffice":"$41,200,000.00",
-	"Image":"HAPPY-GILMORE.jpg"
+	"Image":"HAPPY-GILMORE"
   },
+  
   {
-	"Film":4,
-	"Title":"Water Boy",
-	"Year":1998,
-	"Director":"Frank Coraci",
-	"Producers":"Jack Giarraputo and Robert Simonds",
-	"Writers":"Tim Herlihy and Adam Sandler",
-	"Budget":"$23,000,000.00",
-	"BoxOffice":"$190,00,000.00",
-	"Image":"WATER-BOY.jpg"
-  },
-  {
-	"Film":5,
+	
 	"Title":"Billy Madison",
 	"Year":1995,
 	"Director":"Tamra Davis",
